@@ -7,7 +7,7 @@ Type 2 Diabetes Mellitus is a common metabolic disorder with significant health 
 ### Key Features:-
 Data Source: DiaHealth Dataset, consisting of 5,386 cleaned patient records.
 Features Used: Age, gender, glucose levels, BMI, blood pressure, and medical history (e.g., family diabetes, stroke, cardiovascular disease).
-#### Tools and Technologies:
+### Tools and Technologies:
 Programming: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Database: PostgreSQL
